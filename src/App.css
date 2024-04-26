@@ -1,0 +1,12 @@
+.resultados-container::-webkit-scrollbar-thumb {
+    background: #67d4768e;
+    border-radius: 10px;
+  }
+  
+  .resultados-container::-webkit-scrollbar-track {
+    background-color: #fff;
+  }
+  
+  .resultados-container::-webkit-scrollbar {
+    width: 10px;
+  }

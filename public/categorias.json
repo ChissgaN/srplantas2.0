@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "imgProyect": "./categoria/aromaticas.webp",
+        "tituloCategoria": "AROMATICAS"
+    },{
+        "id": 2,
+        "imgProyect": "./categoria/bulbos.webp",
+        "tituloCategoria": "BULBOS"
+    },
+    {
+        "id": 3,
+        "imgProyect": "./categoria/cesped.webp",
+        "tituloCategoria": "CESPED"
+    },{
+        "id": 4,
+        "imgProyect": "./categoria/hortalizas.webp",
+        "tituloCategoria": "HORTALIZAS"
+    },{
+        "id": 5,
+        "imgProyect": "./categoria/hornamentales.webp",
+        "tituloCategoria": "ORNAMENTALES"
+    },{
+        "id": 6,
+        "imgProyect": "./categoria/sustrato.webp",
+        "tituloCategoria": "SUSTRATOS"
+    },{
+        "id": 7,
+        "imgProyect": "./categoria/contenedores.webp",
+        "tituloCategoria": "CONTENEDORES"
+    }
+]
